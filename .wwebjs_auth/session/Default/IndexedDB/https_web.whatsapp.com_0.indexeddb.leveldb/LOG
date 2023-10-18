@@ -1,0 +1,26 @@
+2023/10/17-23:22:47.415 7e03 Reusing MANIFEST /Users/igormiranda/whatsapp-web - cópia.js/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/17-23:22:47.416 7e03 Recovering log #919
+2023/10/17-23:22:47.417 7e03 Reusing old log /Users/igormiranda/whatsapp-web - cópia.js/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000919.log 
+2023/10/17-23:24:34.916 f20b Level-0 table #931: started
+2023/10/17-23:24:34.945 f20b Level-0 table #931: 1533449 bytes OK
+2023/10/17-23:24:34.954 f20b Delete type=0 #919
+2023/10/17-23:24:36.078 13503 Compacting 1@1 + 8@2 files
+2023/10/17-23:24:36.258 13503 Generated table #932@1: 86347 keys, 2236131 bytes
+2023/10/17-23:24:36.394 13503 Generated table #933@1: 98569 keys, 2249925 bytes
+2023/10/17-23:24:36.491 13503 Generated table #934@1: 55205 keys, 2727135 bytes
+2023/10/17-23:24:36.564 13503 Generated table #935@1: 12027 keys, 3008966 bytes
+2023/10/17-23:24:36.639 13503 Generated table #936@1: 43970 keys, 2211897 bytes
+2023/10/17-23:24:36.705 13503 Generated table #937@1: 27599 keys, 2222194 bytes
+2023/10/17-23:24:36.789 13503 Generated table #938@1: 81498 keys, 2233780 bytes
+2023/10/17-23:24:36.834 13503 Generated table #939@1: 42467 keys, 1133592 bytes
+2023/10/17-23:24:36.834 13503 Compacted 1@1 + 8@2 files => 18023620 bytes
+2023/10/17-23:24:36.842 13503 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/10/17-23:24:36.843 13503 Delete type=2 #923
+2023/10/17-23:24:36.843 13503 Delete type=2 #922
+2023/10/17-23:24:36.843 13503 Delete type=2 #921
+2023/10/17-23:24:36.843 13503 Delete type=2 #925
+2023/10/17-23:24:36.843 13503 Delete type=2 #931
+2023/10/17-23:24:36.843 13503 Delete type=2 #924
+2023/10/17-23:24:36.843 13503 Delete type=2 #926
+2023/10/17-23:24:36.843 13503 Delete type=2 #927
+2023/10/17-23:24:36.843 13503 Delete type=2 #928

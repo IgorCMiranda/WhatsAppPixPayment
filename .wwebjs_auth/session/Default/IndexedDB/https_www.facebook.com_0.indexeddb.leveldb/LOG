@@ -1,0 +1,15 @@
+2023/10/04-22:32:55.002 207cf Creating DB /Users/igormiranda/whatsapp-web.js/.wwebjs_auth/session/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2023/10/04-22:32:55.015 207cf Reusing MANIFEST /Users/igormiranda/whatsapp-web.js/.wwebjs_auth/session/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/04-22:33:05.139 10143 Level-0 table #5: started
+2023/10/04-22:33:05.164 10143 Level-0 table #5: 2328728 bytes OK
+2023/10/04-22:33:05.172 10143 Delete type=0 #3
+2023/10/04-22:33:07.667 10143 Level-0 table #7: started
+2023/10/04-22:33:07.687 10143 Level-0 table #7: 3328752 bytes OK
+2023/10/04-22:33:07.694 10143 Delete type=0 #4
+2023/10/04-22:33:07.813 1302f Compacting 1@1 + 1@2 files
+2023/10/04-22:33:07.852 1302f Generated table #8@1: 8511 keys, 2126242 bytes
+2023/10/04-22:33:07.857 1302f Generated table #9@1: 1705 keys, 131954 bytes
+2023/10/04-22:33:07.857 1302f Compacted 1@1 + 1@2 files => 2258196 bytes
+2023/10/04-22:33:07.865 1302f compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/10/04-22:33:07.865 1302f Delete type=2 #7
+2023/10/04-22:33:07.865 1302f Delete type=2 #5
